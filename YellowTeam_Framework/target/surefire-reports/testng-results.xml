@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite1" duration-ms="16858" started-at="2021-01-06T06:39:03Z" finished-at="2021-01-06T06:39:20Z">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.uk.zoopla.runnertest.Zoopla_MyRunner@2f4948e4]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test name="Nopackage" duration-ms="16858" started-at="2021-01-06T06:39:03Z" finished-at="2021-01-06T06:39:20Z">
+      <class name="com.uk.zoopla.runnertest.Zoopla_MyRunner">
+        <test-method status="PASS" signature="setUpClass()[pri:0, instance:com.uk.zoopla.runnertest.Zoopla_MyRunner@2f4948e4]" name="setUpClass" is-config="true" duration-ms="165" started-at="2021-01-06T06:39:03Z" finished-at="2021-01-06T06:39:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method status="PASS" signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:com.uk.zoopla.runnertest.Zoopla_MyRunner@2f4948e4]" name="feature" duration-ms="16604" started-at="2021-01-06T06:39:03Z" description="Runs Cucumber Feature" data-provider="features" finished-at="2021-01-06T06:39:20Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Zoopla users can buy the property and sale the property]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method status="PASS" signature="tearDownClass()[pri:0, instance:com.uk.zoopla.runnertest.Zoopla_MyRunner@2f4948e4]" name="tearDownClass" is-config="true" duration-ms="8" started-at="2021-01-06T06:39:20Z" finished-at="2021-01-06T06:39:20Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- com.uk.zoopla.runnertest.Zoopla_MyRunner -->
+    </test> <!-- Nopackage -->
+  </suite> <!-- Suite1 -->
+</testng-results>

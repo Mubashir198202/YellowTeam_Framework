@@ -1,0 +1,747 @@
+2020-12-12 02:01:44,473 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-12 02:01:50,054 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-12 02:01:52,714 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:01:53,800 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-12 02:01:54,091 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-12 02:01:54,251 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:01:54,333 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-12 02:01:54,863 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-12 02:01:55,373 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-12 02:01:55,576 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-12 02:01:58,647 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-12 02:01:59,595 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-12 02:01:59,853 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-12 02:02:00,093 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-12 02:07:57,176 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-12 02:08:02,772 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-12 02:08:05,113 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:08:06,315 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-12 02:08:06,567 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-12 02:08:06,742 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:08:06,824 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-12 02:08:07,379 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-12 02:08:07,898 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-12 02:08:08,006 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-12 02:08:10,986 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-12 02:08:11,150 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-12 02:10:08,431 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-12 02:10:14,056 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-12 02:10:15,498 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:10:16,630 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-12 02:10:16,925 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-12 02:10:17,090 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:10:17,624 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-12 02:10:17,804 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-12 02:10:18,185 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-12 02:10:19,804 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-12 02:10:21,018 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-12 02:10:22,076 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-12 02:10:22,272 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-12 02:10:22,657 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-12 02:32:19,339 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-12 02:32:24,855 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-12 02:32:27,720 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:32:28,832 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-12 02:32:29,059 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-12 02:32:29,282 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:32:29,820 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-12 02:32:29,912 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-12 02:32:30,384 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-12 02:32:32,315 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-12 02:32:32,906 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-12 02:32:33,844 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-12 02:32:34,102 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-12 02:32:34,479 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-12 02:34:17,544 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-12 02:34:23,114 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-12 02:34:25,566 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:34:26,641 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-12 02:34:26,923 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-12 02:34:27,083 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:34:27,177 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-12 02:34:27,730 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-12 02:34:28,222 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-12 02:34:28,445 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-12 02:34:30,692 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-12 02:34:31,665 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-12 02:34:32,070 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-12 02:34:32,356 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-12 02:43:26,921 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-12 02:43:32,548 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-12 02:43:34,047 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:43:35,726 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-12 02:43:35,989 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-12 02:43:36,176 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-12 02:43:37,127 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-12 02:43:37,200 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-12 02:43:37,308 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-12 02:43:37,419 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-12 02:43:39,672 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-12 02:43:40,638 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-12 02:43:40,976 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-12 02:43:41,201 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-16 02:52:49,427 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 02:52:55,037 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 02:52:58,955 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 02:52:59,990 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 02:53:00,228 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 02:53:00,411 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 02:53:00,489 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 02:53:01,453 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 02:53:01,555 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 02:53:01,772 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:14:38,989 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 03:14:44,601 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 03:14:46,604 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:14:47,735 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 03:14:47,976 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 03:14:48,151 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:14:48,243 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 03:14:48,761 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 03:14:49,391 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 03:14:50,302 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:16:39,329 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 03:16:44,916 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 03:16:47,645 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:16:49,028 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 03:16:49,253 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 03:16:49,408 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:16:49,936 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 03:16:50,025 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 03:16:50,507 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 03:16:50,727 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:16:52,430 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 03:16:53,948 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 03:16:54,308 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-16 03:16:54,513 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-16 03:24:10,862 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 03:24:16,391 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 03:24:18,308 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:24:19,526 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 03:24:20,490 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 03:24:20,697 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:24:21,646 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 03:24:21,837 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 03:24:21,946 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 03:24:23,738 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:24:24,357 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 03:24:25,278 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 03:25:57,547 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 03:26:03,077 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 03:26:04,597 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:26:05,708 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 03:26:06,109 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 03:26:06,303 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:26:06,831 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 03:26:07,054 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 03:26:07,457 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 03:26:08,324 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:26:08,417 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 03:26:10,974 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 03:32:49,772 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 03:32:55,372 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 03:32:57,066 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:32:58,257 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 03:32:58,651 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 03:32:58,848 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:32:59,794 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 03:32:59,954 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 03:33:00,362 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 03:33:01,514 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:33:03,134 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 03:33:03,823 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 03:38:47,419 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 03:38:52,974 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 03:38:54,361 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:38:55,376 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 03:38:55,653 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 03:38:55,836 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:38:55,917 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 03:38:56,868 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 03:38:56,989 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 03:38:57,271 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:38:57,303 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 03:40:27,636 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 03:40:33,202 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 03:40:34,888 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:40:36,061 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 03:40:37,052 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 03:40:37,262 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:40:38,332 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 03:40:38,381 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 03:40:38,523 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 03:40:38,625 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:40:41,472 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 03:40:42,357 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 03:40:42,739 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-16 03:40:43,055 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-16 03:50:58,763 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 03:51:04,368 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 03:51:07,042 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:51:08,141 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 03:51:08,348 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 03:51:08,552 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:51:09,406 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 03:51:09,557 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 03:51:09,681 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 03:51:10,504 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:51:12,168 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 03:51:12,835 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 03:52:47,485 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 03:52:53,104 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 03:52:55,562 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:52:56,619 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 03:52:56,928 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 03:52:57,089 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 03:52:57,164 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 03:52:57,727 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 03:52:58,243 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 03:52:59,804 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 03:53:01,031 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 03:53:01,637 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 04:00:21,878 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 04:00:27,475 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 04:00:30,004 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 04:00:31,257 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 04:00:31,714 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 04:00:31,940 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 04:00:32,053 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 04:00:32,638 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 04:00:33,411 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 04:00:35,030 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 04:00:35,108 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 04:00:37,636 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 04:00:38,281 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-16 04:00:38,538 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-16 21:49:53,395 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 21:49:59,835 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 21:50:02,411 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 21:50:03,603 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 21:50:03,921 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 21:50:04,144 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 21:50:04,718 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 21:50:04,925 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 21:50:05,393 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 21:50:05,547 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 21:50:05,601 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 21:50:05,616 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 21:51:20,395 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 21:51:26,354 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 21:51:28,691 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 21:51:30,050 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 21:51:30,428 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 21:51:30,628 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 21:51:30,721 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 21:51:31,358 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 21:51:32,044 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 21:51:32,424 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 21:51:33,158 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 21:51:34,272 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 22:36:56,379 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 22:37:02,042 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 22:37:04,742 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 22:37:06,510 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 22:37:06,821 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 22:37:07,061 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 22:37:07,158 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 22:37:07,641 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 22:37:08,387 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 22:37:08,689 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 22:37:10,240 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 22:37:12,486 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 22:40:36,398 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 22:40:42,103 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 22:40:44,310 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 22:40:45,542 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 22:40:45,855 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 22:40:46,097 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 22:40:46,195 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 22:40:46,901 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 22:40:47,464 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 22:40:47,625 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 22:40:48,389 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 22:40:48,486 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 22:40:48,803 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-16 22:40:49,922 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-16 22:43:17,274 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 22:43:22,969 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 22:43:25,705 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 22:43:26,916 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 22:43:27,302 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 22:43:27,521 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 22:43:27,618 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 22:43:28,160 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 22:43:28,785 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 22:43:30,545 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 22:43:31,856 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 22:43:33,070 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 22:43:33,206 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-16 22:43:33,643 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-16 23:05:58,712 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 23:06:04,261 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 23:06:06,511 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 23:06:07,801 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 23:06:08,146 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 23:06:08,345 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 23:06:08,948 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 23:06:09,031 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 23:06:09,612 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 23:06:09,829 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 23:06:10,588 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 23:06:10,640 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 23:06:10,898 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-16 23:06:11,484 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-16 23:11:52,823 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 23:11:58,481 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 23:12:01,429 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 23:12:02,657 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 23:12:02,971 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 23:12:03,185 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 23:12:03,826 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 23:12:04,048 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 23:12:04,507 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 23:12:04,637 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 23:12:04,738 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 23:12:04,758 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 23:12:04,892 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-16 23:12:05,109 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-16 23:12:50,650 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 23:12:56,221 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 23:12:58,358 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 23:12:59,509 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 23:12:59,814 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 23:13:00,010 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 23:13:00,112 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 23:13:00,760 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 23:13:01,337 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 23:13:02,334 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 23:13:02,395 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 23:13:02,419 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 23:13:02,568 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-16 23:13:03,243 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-16 23:17:41,849 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-16 23:17:47,531 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-16 23:17:50,295 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 23:17:52,384 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-16 23:17:52,633 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-16 23:17:52,836 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-16 23:17:52,934 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-16 23:17:53,488 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-16 23:17:54,058 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-16 23:17:54,312 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-16 23:17:54,965 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-16 23:17:56,463 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-16 23:17:56,500 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-16 23:17:57,753 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-17 03:38:27,542 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-17 03:38:33,202 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-17 03:38:37,070 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 03:38:38,354 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-17 03:38:38,643 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-17 03:38:38,832 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 03:38:39,391 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-17 03:38:39,496 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-17 03:38:40,129 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-17 03:38:41,276 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-17 03:38:42,405 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-17 03:38:43,743 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-17 03:38:43,994 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-17 03:38:44,401 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-17 04:05:50,646 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-17 04:05:56,427 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-17 04:05:59,225 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:06:00,374 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-17 04:06:00,678 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-17 04:06:00,857 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:06:01,409 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-17 04:06:01,621 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-17 04:06:02,032 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-17 04:06:03,005 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-17 04:07:52,330 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-17 04:07:57,872 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-17 04:07:59,662 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:08:00,791 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-17 04:08:01,113 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-17 04:08:01,304 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:08:01,833 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-17 04:08:02,060 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-17 04:08:02,547 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-17 04:08:02,714 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-17 04:08:02,764 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-17 04:08:02,778 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-17 04:08:02,814 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-17 04:08:03,110 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-17 04:11:42,752 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-17 04:11:48,421 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-17 04:11:50,374 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:11:51,501 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-17 04:11:51,785 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-17 04:11:51,960 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:11:52,050 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-17 04:11:52,510 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-17 04:11:53,037 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-17 04:11:54,871 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-17 04:11:55,835 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-17 04:11:56,005 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-17 04:11:56,596 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-17 04:11:57,568 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-17 04:15:08,772 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-17 04:15:14,385 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-17 04:15:16,880 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:15:18,016 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-17 04:15:18,282 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-17 04:15:18,464 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:15:18,974 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-17 04:15:19,151 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-17 04:15:19,536 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-17 04:15:19,772 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-17 04:15:20,498 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-17 04:15:22,448 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-17 04:15:22,698 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-17 04:15:23,090 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-17 04:18:29,488 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-17 04:18:35,111 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-17 04:18:37,550 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:18:38,644 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-17 04:18:38,964 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-17 04:18:39,148 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:18:39,717 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-17 04:18:39,867 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-17 04:18:40,327 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-17 04:18:40,577 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-17 04:18:41,494 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-17 04:18:43,234 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-17 04:18:43,476 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-17 04:18:43,891 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-17 04:20:23,348 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-17 04:20:28,859 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-17 04:20:31,147 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:20:32,306 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-17 04:20:32,594 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-17 04:20:32,774 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-17 04:20:32,857 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-17 04:20:33,364 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-17 04:20:33,990 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-17 04:20:34,288 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-17 04:20:37,158 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-17 04:20:38,058 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-17 04:20:38,264 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-17 04:20:38,737 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-18 17:43:16,884 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-18 17:43:23,391 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-18 17:43:26,170 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-18 17:43:27,432 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-18 17:43:27,766 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-18 17:43:28,017 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-18 17:43:28,111 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-18 17:43:28,626 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-18 17:43:29,367 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-18 17:43:31,316 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-18 17:43:32,953 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-18 17:43:33,900 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-18 17:43:33,930 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-18 17:43:35,507 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-24 21:07:28,608 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-24 21:07:34,484 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-24 21:07:36,600 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-24 21:07:38,280 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-24 21:07:38,727 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-24 21:07:38,967 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-24 21:07:39,826 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-24 21:07:40,236 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-24 21:07:41,077 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-24 21:07:41,387 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-24 21:07:42,335 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-24 21:07:42,720 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-24 21:07:43,541 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-24 21:07:44,650 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-24 21:08:35,858 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-24 21:08:41,963 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-24 21:08:43,828 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-24 21:08:45,409 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-24 21:08:46,028 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-24 21:08:46,335 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-24 21:08:46,458 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-24 21:08:46,951 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-24 21:10:42,719 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-24 21:10:52,972 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-24 21:10:55,792 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-24 21:10:57,932 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-24 21:10:58,943 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-24 21:10:59,434 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-24 21:11:00,946 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-24 21:11:01,432 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-24 21:11:01,701 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-24 21:11:03,757 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-24 21:11:05,588 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-24 21:11:09,023 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-24 21:11:09,634 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-24 21:11:10,154 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-28 01:28:51,395 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 01:28:57,120 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 01:28:58,809 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 01:29:00,268 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 01:29:00,698 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 01:29:00,882 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 01:29:00,974 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 01:29:01,503 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 01:29:02,300 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 01:29:03,151 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 01:29:04,677 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-28 01:29:05,852 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-28 01:29:06,342 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-28 01:29:07,815 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-28 01:46:22,531 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 01:46:28,044 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 01:46:29,416 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 01:46:30,541 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 01:46:30,811 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 01:46:30,977 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 01:46:31,558 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 01:46:31,735 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 01:46:32,085 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 01:46:32,386 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 01:46:32,408 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-28 01:46:32,421 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-28 01:46:32,454 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-28 01:46:32,688 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-28 01:49:50,198 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 01:49:55,809 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 01:49:59,665 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 01:50:00,649 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 01:50:00,860 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 01:50:01,082 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 01:50:01,614 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 01:50:01,749 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 01:50:02,197 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 01:50:04,397 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 01:50:05,099 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-28 01:50:05,725 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-28 01:50:05,745 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-28 01:50:06,864 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-28 02:06:49,291 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 02:06:54,873 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 02:06:56,512 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 02:06:57,642 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 02:06:57,935 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 02:06:58,098 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 02:06:58,930 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 02:06:59,175 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 02:06:59,323 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 02:06:59,575 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 02:07:01,953 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-28 02:07:02,091 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-28 02:07:02,331 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-28 02:11:39,433 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 02:11:45,008 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 02:11:47,605 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 02:11:48,765 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 02:11:49,055 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 02:11:49,217 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 02:11:49,729 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 02:11:49,909 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 02:11:50,267 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 02:11:51,594 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 02:11:52,338 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-28 02:11:53,264 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-28 02:11:53,460 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-28 02:11:53,832 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-28 02:28:57,346 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 02:29:02,995 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 02:29:05,290 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 02:29:06,410 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 02:29:06,661 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 02:29:06,826 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 02:29:07,378 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 02:29:07,546 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 02:29:07,902 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 02:29:08,808 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 02:29:09,895 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-28 02:29:11,003 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-28 02:29:11,147 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-28 02:29:11,539 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-28 02:34:01,633 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 02:34:07,264 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 02:34:09,675 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 02:34:10,909 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 02:34:11,145 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 02:34:11,309 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 02:34:11,900 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 02:34:12,120 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 02:34:12,477 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 02:34:13,950 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 02:34:14,581 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-28 02:34:15,636 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-28 02:34:15,780 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-28 02:34:16,159 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-28 03:58:13,246 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 03:58:18,842 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 03:58:21,552 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 03:58:22,631 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 03:58:22,900 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 03:58:23,073 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 03:58:23,593 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 03:58:23,711 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 03:58:24,176 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 03:58:25,674 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 03:58:26,682 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-28 03:58:27,052 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-28 03:58:27,076 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-28 03:58:28,081 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-28 22:02:20,006 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 22:02:25,689 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 22:02:27,286 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 22:02:28,476 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 22:02:28,740 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 22:02:28,921 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 22:02:29,010 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 22:02:29,530 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 22:02:30,228 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 22:02:31,293 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 22:03:27,250 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 22:03:32,875 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 22:03:34,435 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 22:03:35,668 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 22:03:36,841 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 22:03:37,046 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 22:03:38,256 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 22:03:38,326 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 22:03:38,451 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 22:03:39,126 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 22:04:58,546 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-28 22:05:04,218 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-28 22:05:05,702 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 22:05:06,935 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-28 22:05:07,272 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-28 22:05:07,446 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-28 22:05:07,534 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-28 22:05:08,072 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-28 22:05:08,741 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-28 22:05:11,328 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-28 22:05:11,654 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-28 22:05:12,924 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-28 22:05:13,089 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-28 22:05:13,479 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-31 19:52:16,267 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-31 19:52:21,857 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-31 19:52:23,920 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:52:25,179 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-31 19:52:26,389 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-31 19:52:26,616 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:52:27,443 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-31 19:52:27,560 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-31 19:52:27,858 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-31 19:52:28,833 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-31 19:52:28,877 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-31 19:52:30,414 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-31 19:52:30,435 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-31 19:54:41,120 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-31 19:54:46,792 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-31 19:54:49,454 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:54:50,624 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-31 19:54:51,510 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-31 19:54:51,715 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:54:52,673 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-31 19:54:52,769 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-31 19:54:53,119 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-31 19:54:53,844 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-31 19:54:53,889 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-31 19:54:55,929 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-31 19:54:56,050 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-31 19:54:56,470 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-31 19:55:29,315 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-31 19:55:34,857 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-31 19:55:37,235 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:55:38,382 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-31 19:55:38,631 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-31 19:55:38,791 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:55:39,369 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-31 19:55:39,537 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-31 19:55:39,994 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-31 19:55:40,710 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-31 19:55:40,765 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-31 19:55:42,621 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-31 19:55:42,854 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-31 19:55:43,208 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2020-12-31 19:57:12,302 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-31 19:57:17,835 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-31 19:57:20,413 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:57:21,534 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-31 19:57:21,778 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-31 19:57:21,931 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:57:22,009 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-31 19:57:22,558 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-31 19:57:23,061 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-31 19:57:24,505 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-31 19:57:24,823 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-31 19:57:25,752 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-31 19:57:25,762 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-31 19:58:27,451 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-31 19:58:33,053 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-31 19:58:35,551 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:58:36,690 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-31 19:58:36,952 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-31 19:58:37,108 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 19:58:37,629 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-31 19:58:37,803 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-31 19:58:38,205 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-31 19:58:38,413 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-31 19:58:40,565 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-31 19:58:41,342 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-31 19:58:41,355 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-31 20:16:03,348 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2020-12-31 20:16:08,950 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2020-12-31 20:16:12,111 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 20:16:13,258 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2020-12-31 20:16:13,507 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2020-12-31 20:16:13,679 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2020-12-31 20:16:14,255 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2020-12-31 20:16:14,349 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2020-12-31 20:16:14,869 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2020-12-31 20:16:15,080 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2020-12-31 20:16:17,543 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2020-12-31 20:16:18,271 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2020-12-31 20:16:18,284 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2020-12-31 20:16:19,272 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2021-01-04 16:07:01,977 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2021-01-04 16:07:07,609 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2021-01-04 16:07:10,182 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2021-01-04 16:07:11,386 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2021-01-04 16:07:11,649 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2021-01-04 16:07:11,818 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2021-01-04 16:07:11,906 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2021-01-04 16:07:12,437 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2021-01-04 16:07:13,041 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2021-01-04 16:07:13,248 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2021-01-04 16:07:15,999 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2021-01-04 16:07:17,345 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2021-01-04 16:07:17,495 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2021-01-04 16:07:17,826 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2021-01-06 01:26:00,246 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2021-01-06 01:26:05,894 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2021-01-06 01:26:07,845 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2021-01-06 01:26:09,097 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2021-01-06 01:26:09,332 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2021-01-06 01:26:09,547 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2021-01-06 01:26:10,519 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2021-01-06 01:26:10,561 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2021-01-06 01:26:10,669 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2021-01-06 01:26:10,855 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2021-01-06 01:26:14,493 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2021-01-06 01:26:15,073 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2021-01-06 01:26:15,095 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2021-01-06 01:26:16,117 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
+2021-01-06 01:39:03,938 - QA_Mubashir -INFO - ******>As a User I can Open any Browser<******
+2021-01-06 01:39:09,515 - QA_Mubashir -INFO - ******>As a User I can enter URL<******
+2021-01-06 01:39:12,217 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2021-01-06 01:39:13,658 - QA_Mubashir -INFO - ******>As a user I can enter Valid userName<******
+2021-01-06 01:39:13,919 - QA_Mubashir -INFO - ******>As a user I can enter Valid passWord<******
+2021-01-06 01:39:14,092 - QA_Mubashir -INFO - ******>As a User I can clik on the  Sign in button<******
+2021-01-06 01:39:14,818 - QA_Mubashir -INFO - ******>As a user I am able to verify the title<******
+2021-01-06 01:39:14,891 - QA_Mubashir -INFO - ******>As a user I am able to write Newyork, Lincolnshire<******
+2021-01-06 01:39:15,399 - QA_Mubashir -INFO - ******>As a user I am able to click Search button<******
+2021-01-06 01:39:15,538 - QA_Mubashir -INFO - ******>As a user I am able to Print all the price values <******
+2021-01-06 01:39:16,852 - QA_Mubashir -INFO - ******>As a user I am able to click on fifth property from list<******
+2021-01-06 01:39:16,894 - QA_Mubashir -INFO - ******>As a user I am able to verify the logo, name and telephone number of the agent<******
+2021-01-06 01:39:17,043 - QA_Mubashir -INFO - ******>As a user I am able to click on MyZoopla<******
+2021-01-06 01:39:18,256 - QA_Mubashir -INFO - ******>as_a_user_I_am_able_to_clik_on_signout_button<******
